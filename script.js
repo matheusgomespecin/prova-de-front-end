@@ -7,6 +7,6 @@ function mudarTexto() {
     alert('Botão clicado! Exibindo um alerta na tela.');
   }
   
-  document.getElementById('seuBotaoID').addEventListener('click', novaFuncaoDeAlerta);
+  document.getElementById('botao').addEventListener('click', novaFuncaoDeAlerta);
   
   
