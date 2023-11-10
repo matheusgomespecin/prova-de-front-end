@@ -3,10 +3,10 @@ function mudarTexto() {
     document.getElementById('demo').innerHTML = 'Texto alterado!';
   }
   
-  function novaFuncaoDeAlerta() {
+  function Alerta() {
     alert('Botão clicado! Exibindo um alerta na tela.');
   }
   
-  document.getElementById('botao').addEventListener('click', novaFuncaoDeAlerta);
+  document.getElementById('Alerta').addEventListener('click', Alerta);
   
   
