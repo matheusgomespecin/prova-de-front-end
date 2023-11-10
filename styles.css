@@ -3,17 +3,17 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: #000000;
     text-align: center;
   }
   
   h1 {
-    color: #333;
+    color: #ffffff;
     text-align: center;
   }
   
   p {
-    color: #555;
+    color: #4caf50;
     line-height: 1.5;
   }
   
@@ -28,7 +28,8 @@ body {
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #00ff0d;
+    size: 20px;
   }
   
   img {
@@ -39,4 +40,6 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
+
+
   
