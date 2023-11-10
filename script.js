@@ -1,10 +1,6 @@
+
 function mudarTexto() {
-    document.getElementById("demo").innerHTML = "Texto alterado!";
-}
-
-
-function minhaFuncaoExistente() {
-    console.log('Esta é uma função existente!');
+    document.getElementById('demo').innerHTML = 'Texto alterado!';
   }
   
   function novaFuncaoDeAlerta() {
@@ -12,4 +8,5 @@ function minhaFuncaoExistente() {
   }
   
   document.getElementById('seuBotaoID').addEventListener('click', novaFuncaoDeAlerta);
+  
   
